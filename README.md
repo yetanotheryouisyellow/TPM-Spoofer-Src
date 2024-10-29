@@ -8,3 +8,9 @@ TPM Spoofer Src
 - TPM Spoofer/x64/Debug
 
 Start TPMLoader.exe
+
+or
+
+also a way to map the tpm-hook to the mapper.
+
+discord: ysxe_1.
